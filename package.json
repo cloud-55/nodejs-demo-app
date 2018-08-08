@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "main": "/app/server.js",
+  "author": "Supernova Cloud Platform",
+  "description": "NodeJS Platform on Supernova ",
+  "dependencies": {
+    "express": "latest"
+  }
+}
